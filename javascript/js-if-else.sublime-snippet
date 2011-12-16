@@ -1,0 +1,18 @@
+<!-- 
+  description: Add an JavaScript if-else statement with cursor between the parentheses
+  tab trigger: else
+  scope:       *.js
+-->
+<snippet>
+  <content><![CDATA[
+if ($0) {
+  
+} else {
+  
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>else</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
