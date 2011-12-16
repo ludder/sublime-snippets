@@ -1,14 +1,9 @@
-Snippets for Sublime Text 2
+# Snippets for Sublime Text 2
 
-====================
-installation
-====================
+## Installation
 Drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
 
-====================
-license
-====================
-
+## License
 The MIT License (MIT)
 
 Copyright (c) 2011 Tom Greuter, http://tomgreuter.nl
