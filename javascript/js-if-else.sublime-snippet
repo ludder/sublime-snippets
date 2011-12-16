@@ -1,5 +1,5 @@
 <!-- 
-  description: Add an JavaScript if-else statement with cursor between the parentheses
+  description: Add a JavaScript if-else statement with cursor between the parentheses
   tab trigger: else
   scope:       *.js
 -->

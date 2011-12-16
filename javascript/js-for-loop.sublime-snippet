@@ -1,7 +1,7 @@
 <!-- 
-  description: Add an JavaScript if-else statement with cursor between the parentheses
+  description: Add a JavaScript for loop
                $1 => array
-  tab trigger: else
+  tab trigger: loop
   scope:       *.js
 -->
 <snippet>
