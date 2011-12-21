@@ -1,7 +1,8 @@
 # Snippets for Sublime Text 2
 
 ## Installation
-Drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
+- Drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
+- To install all snippets: drop the complete directories "html" and "javascript" in the user directory.
 
 ## License
 The MIT License (MIT)
