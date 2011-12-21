@@ -1,0 +1,29 @@
+<!-- 
+  description: Create a clean document with HTML5 doctype
+  tab trigger: html5
+  scope:       *.*
+-->
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE HTML>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8">
+	<title>$1</title>
+	<style>
+		
+	</style>
+	<script>
+		
+	</script>
+</head>
+<body>
+	$0
+</body>
+</html>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html5</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.html</scope> -->
+</snippet>
