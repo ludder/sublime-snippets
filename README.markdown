@@ -1,5 +1,37 @@
 # Snippets for Sublime Text 2
 
+## Overview
+
+### HTML snippets
+<table>
+	<tr><th>Tab trigger</th>
+	<th>Description</th></tr>
+	<tr><td>html5</td>
+	<td>Create html5 document</td></tr>
+</table>
+
+### JAvaScript snippets
+<table>
+	<tr><th>Tab trigger</th>
+	<th>Description</th></tr>
+	<tr>
+		<td><strong>maanden</strong></td>
+		<td>Array with month names (in Dutch)</td>
+	</tr>
+	<tr>
+		<td><strong>con</strong></td>
+		<td>console.log()</td>
+	</tr>
+	<tr>
+		<td><strong>loop</strong></td>
+		<td>Extended for-loop</td>
+	</tr>
+	<tr>
+		<td><strong>else</strong></td>
+		<td>if .. else ..</td>
+	</tr>
+</table>
+
 ## Installation
 - Drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
 - To install all snippets: drop the complete directories "html" and "javascript" in the user directory.
