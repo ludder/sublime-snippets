@@ -10,7 +10,7 @@
 	<td>Create html5 document</td></tr>
 </table>
 
-### JAvaScript snippets
+### JavaScript snippets
 <table>
 	<tr><th>Tab trigger</th>
 	<th>Description</th></tr>
