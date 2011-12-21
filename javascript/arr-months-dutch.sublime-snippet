@@ -1,0 +1,15 @@
+<!-- 
+  description: Write an array with all months in Dutch
+  tab trigger: maanden
+  scope:       *.js
+-->
+<snippet>
+  <content><![CDATA[
+var ${1:arrMonths} = [${2:'dummy', }'januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'];
+$1$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>maanden</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
