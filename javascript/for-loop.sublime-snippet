@@ -1,0 +1,20 @@
+<!-- 
+  description: Add a JavaScript for loop
+               $1 => array
+  tab trigger: loop
+  scope:       *.js
+-->
+<snippet>
+  <content><![CDATA[
+var i, length, item;
+length = $1.length;
+for (i=0; i<length; i++) {
+  item = $1[i];
+  $0
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>loop</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
