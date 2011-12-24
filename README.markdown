@@ -13,22 +13,27 @@
 ### JavaScript snippets
 <table>
 	<tr><th>Tab trigger</th>
-	<th>Description</th></tr>
-	<tr>
-		<td><strong>maanden</strong></td>
-		<td>Array with month names (in Dutch)</td>
+		<th>Description</th></tr>
 	</tr>
 	<tr>
 		<td><strong>con</strong></td>
 		<td>console.log()</td>
 	</tr>
 	<tr>
-		<td><strong>loop</strong></td>
-		<td>Extended for-loop</td>
-	</tr>
-	<tr>
 		<td><strong>else</strong></td>
 		<td>if .. else ..</td>
+	</tr>
+	<tr>
+		<td><strong>func</strong></td>
+		<td>function xxx() {}</td>
+	</tr>
+	<tr>
+		<td><strong>maanden</strong></td>
+		<td>Array with month names (in Dutch)</td>
+	</tr>
+	<tr>
+		<td><strong>loop</strong></td>
+		<td>Extended for-loop</td>
 	</tr>
 </table>
 
