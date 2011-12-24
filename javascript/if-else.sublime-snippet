@@ -1,14 +1,14 @@
 <!-- 
-  description: Add a JavaScript if-else statement with cursor between the parentheses
+  description: Add JavaScript if-else statement
   tab trigger: else
   scope:       *.js
 -->
 <snippet>
   <content><![CDATA[
-if ($0) {
-  
+if ($1) {
+  $2
 } else {
-  
+  $3
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
