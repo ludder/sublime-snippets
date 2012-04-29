@@ -39,12 +39,12 @@
 
 ## Installation
 - Drop the snippet in directory [Sublime Text 2 installation directory]/Packages/User/
-- To install all snippets: drop the complete directories "html" and "javascript" in the user directory.
+- To install all snippets: drop the entire directories "html" and "javascript" in the user directory.
 
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2011 Tom Greuter, http://tomgreuter.nl
+Copyright (c) 2012 Tom Greuter, http://tomgreuter.nl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
